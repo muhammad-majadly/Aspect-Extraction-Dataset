@@ -45,12 +45,16 @@ Annotators were given detailed instructions and examples for each aspect categor
 The dataset contains **1,222 labeled sentences** in total. Distribution of aspect-related sentences across the dataset.
 
 ## Citation
+
+If you use this dataset in your research, please cite the following paper:
+
+```bibtex
 @article{majadly2024peerreview,
-  title={Leveraging Peer-Review Aspects for Extractive and Abstractive Summarization of Scientific Articles},
-  author={M Majadly and M Last},
-  journal={International Journal of Data Science and Analytics},
-  pages={1-14},
-  year={2024}
+  title     = {Leveraging Peer-Review Aspects for Extractive and Abstractive Summarization of Scientific Articles},
+  author    = {M Majadly and M Last},
+  journal   = {International Journal of Data Science and Analytics},
+  pages     = {1-14},
+  year      = {2024}
 }
 
 

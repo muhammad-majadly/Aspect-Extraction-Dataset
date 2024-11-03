@@ -42,7 +42,7 @@ Annotators were given detailed instructions and examples for each aspect categor
 - **Claims Support** sentences are typically found in the Results section.
 
 ## Statistics
-The dataset contains **1,222 labeled sentences** in total. Distribution of aspect-related sentences across the dataset is provided in *Table 2* of the associated research paper.
+The dataset contains **1,222 labeled sentences** in total. Distribution of aspect-related sentences across the dataset.
 
 ## Citation
 @article{majadly2024peerreview,

@@ -1,6 +1,6 @@
 # Aspect Extraction Dataset for Scientific Papers
 
-This repository contains an annotated dataset for aspect extraction in scientific papers, specifically designed for tasks in natural language processing and machine learning research. The dataset includes labeled sentences from a collection of papers in the fields of Computer Science and Electrical Engineering. The aim of this dataset is to support research in aspect-based summarization, sentiment analysis, and other NLP tasks.
+This dataset contains annotated scientific sentences for aspect extraction in research papers, focusing on peer review aspects. The sentences are labeled according to the following aspects: contribution, motivation, experimental claims, claims support, or none. The dataset comprises sentences from a collection of papers in the fields of Computer Science and Electrical Engineering.
 
 ## Table of Contents
 - [Dataset Overview](#dataset-overview)

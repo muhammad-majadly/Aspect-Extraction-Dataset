@@ -20,9 +20,7 @@ Each sentence is labeled according to its corresponding aspect, providing a stru
 ## Data Structure
 The dataset is organized as follows:
 
-- **labeled_sentences.csv**: A CSV file containing all labeled sentences in the dataset.
-  - `paper_id`: Unique identifier for each paper.
-  - `section`: Section of the paper where the sentence is located (e.g., Abstract, Introduction, Results).
+- **labeled_sentences.csv**: The file containing all labeled sentences in the dataset.
   - `sentence`: Text of the sentence.
   - `aspect`: The assigned aspect label (e.g., Contribution, Motivation, Experimental Claims, Claims Support, None).
 
@@ -31,7 +29,6 @@ The aspect labels assigned to each sentence are as follows:
 - **Contribution**: Describes the key contributions of the paper.
 - **Motivation**: Highlights the motivation or rationale behind the work.
 - **Experimental Claims**: Contains statements about experimental findings.
-- **Claims Support**: Provides evidence or support for claims made in the paper.
 - **None**: Sentences not related to any specific aspect.
 
 ## Annotation Process
@@ -42,7 +39,7 @@ Annotators were given detailed instructions and examples for each aspect categor
 - **Claims Support** sentences are typically found in the Results section.
 
 ## Statistics
-The dataset contains **1,222 labeled sentences** in total. Distribution of aspect-related sentences across the dataset.
+The dataset contains **1,222 labeled sentences** in total.
 
 ## Citation
 
